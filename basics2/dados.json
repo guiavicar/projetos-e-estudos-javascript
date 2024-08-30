@@ -1,0 +1,8 @@
+{
+    "pessoa":{
+    "nome":"Joao",
+    "idade" : 20,
+    "email":"jaogameplays@gmail.com",
+    "atividades" :["ler","correr","box"]
+    }
+}
